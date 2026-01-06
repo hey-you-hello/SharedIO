@@ -1,6 +1,8 @@
 # SharedIO
  lib for share  io obj cross platform 
 一項用於跨裝置共享io物件的專案
+呃等等這好像不太對
+我應該直接用協議改變數就好
 # 項目結構
 ```
 MagicIO
